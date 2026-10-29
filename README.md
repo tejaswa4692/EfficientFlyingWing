@@ -44,3 +44,6 @@ the only files needed to be printed are the betterservolink and flyingwing3dpirn
 #After installing all the electroncis and stuff your assembly should look like this irl
 
 ![Project Screenshot](assets/Screenshot_20261028_222852.png)
+
+# Onshape link
+https://cad.onshape.com/documents/3d392902670710a880efa328/w/26a4caf5453043c9f88016e0/e/99eee52926858585e8632edb?renderMode=0&uiState=6ae2d6b02f8fe391dc6fb8cd
