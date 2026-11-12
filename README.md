@@ -1,6 +1,6 @@
 # Long range spy Autonomous wing for battlefield mapping
 
-This is my custom designed FPV flying wing from scratch using my own wing manufacturing process and 3D printing
+This is my custom designed Autonomous FPV flying wing from scratch using my own wing manufacturing process and 3D printing
 
 I am aiming to achieve 7A of cruise draw, while at 45kmph speed, i think hitting the speed record is gonna be one of the hard things in this challenge
 
@@ -12,7 +12,7 @@ I will also be custom tuning the FC and releasing the files for it for ease of u
 
 The root of the usable wing surface is 20cm and the tip is 10cm, sweep distance is 27cm with 98cm wingspan, so we can safely assume this is a 1000mm swept wing platform
 
-I have confidence in this design as i studied why my old wings didnt fly and it was because the center of pressure of the wing was way too close to the COG and it didnt provide any stability of any sorts
+I have confidence in this design as i studied why my old wings didnt fly and it was because the center of pressure of the wing was way too close to the COG and it didnt provide any stability of any sorts (the cog for this wing is marked under the 3D printed fuselage)
 
 How this design is unique to others available on the internet is this is one of the most durable wings, Online wings are either 3D pritner or are SUPER expensve to build, This one achieves everything it aims as less as possible
 
