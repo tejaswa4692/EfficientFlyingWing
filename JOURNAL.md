@@ -3,7 +3,7 @@ title: "Super Efficient FPV Wing"
 github: "https://github.com/tejaswa4692/EfficientFlyingWing"
 description: "An autonomous flying  wing that i will optimize for super long flight times "
 created_at: "2026-10-08"
-total_time: "8h 30m"
+total_time: "10h 18m"
 ---
 
 # October 9, 2026: Started the design
@@ -61,3 +61,24 @@ Finished the wing design process, went over the BOM multiple times and wrote the
 Timelapse: https://lapse.hackclub.com/timelapse/cs-mQqA6DQDO
 
 **Total time spent: 1h 30m**
+
+# November 9, 2026: Polishing
+<!-- fabricate:entry 2485 -->
+
+Made the 3d model for components properly this time not just rects, designed a tiny poster that shows my design choices for this wing, ran CFD sims to back my design choices aswell
+
+![](https://fabricate.hackclub-assets.com/9e1b72b4165c9c67405ce869bf8ee47c4feb6a0024ff1c81961112fe7713d6eb/image-png/Screenshot_20261109_170036.png)
+![](https://fabricate.hackclub-assets.com/e248ef0a7b48e41880909f22c0edbf87eb949f429c673a80d47c0c3245218f65/image-png/Your%20paragraph%20text.png)
+
+Timelapse: https://lapse.hackclub.com/timelapse/aJCF_8N3f82p
+
+**Total time spent: 1h 30m**
+
+# November 12, 2026: Documentation
+<!-- fabricate:entry 2673 -->
+
+Documented the updates, updated the BOM a lil too, added CFD sim links to the readme and added the cool poster aswell
+
+Timelapse: https://lapse.hackclub.com/timelapse/KleVnaiw7Xy2
+
+**Total time spent: 18m**
