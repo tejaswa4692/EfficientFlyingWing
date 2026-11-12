@@ -1,10 +1,12 @@
-# My best flying wing yet
+# Long range spy Autonomous wing for battlefield mapping
 
 This is my custom designed FPV flying wing from scratch using my own wing manufacturing process and 3D printing
 
 I am aiming to achieve 7A of cruise draw, while at 45kmph speed, i think hitting the speed record is gonna be one of the hard things in this challenge
 
 The design is a conventional flying wing with a swept wing design, i gave 3 degrees of washout at wingtips, the design uses MH45 Airfoil for both root and tip chord
+
+I will also be custom tuning the FC and releasing the files for it for ease of use
 
 ![Project Screenshot](assets/1.png)
 
@@ -56,10 +58,11 @@ the only files needed to be printed are the betterservolink and flyingwing3dpirn
 1. Cut out the templates of the airfoil out of cardboard
 3. Use CA glue to reinforce the cardboard and stiffen up the edges
 4. sand the edges of template so hot wire slides much smoother
-5. take a sheet of thermocol and on the side place the 2 templates you cut out and put them 
-6. wrap nichrome wire around 2 nails with approx 50cm distance between them attach the power wires on nails and power it using a powersupply (i used my old laptops 19V 2.5A supply)
-7. slowly cut out the 45cm wing section out of the thermocol, dont worry if u dont nail it first try
-8. Repeat this 1 more times to get total wing length of 90cm
+5. take a sheet of thermocol and on the side place the 2 templates you cut out and put them
+6. Place one of the template 27 cm behind the first root template to get the sweep, and make sure to account for mirror effect when making the other wing
+7. wrap nichrome wire around 2 nails with approx 55cm distance between them attach the power wires on nails and power it using a powersupply (i used my old laptops 19V 2.5A supply)
+8. slowly cut out the 45cm wing section out of the thermocol, dont worry if u dont nail it first try
+9. Repeat this 1 more times to get total wing length of 100cm
 10. Now cut your paper bag in approx 22.5cm sections
 11. Cover a part of your wing with the mixture of craft glue + water and then place your piece of paper over it, make sure there are no airbubbles under the wing, do this for all around the wing
 12. cut strips of 5cm and place it on the seams of the paper you laid down before
@@ -67,7 +70,20 @@ the only files needed to be printed are the betterservolink and flyingwing3dpirn
 
 #After installing all the electroncis and stuff your assembly should look like this 
 
+![Project Screenshot](assets/image.jpeg)
+
 ![Project Screenshot](assets/assembly.png)
+
+# Goals to achive
+1. I want to attain hands off BLOS autonomy with this design with no user control necessary
+2. The design must cruise slow enough for spying purposes
+3. Cruise draw MUST be under 7A
+4. Cruise speed can roughly be around 45kmph
+5. The aircraft must be stable and tuned perfectly to ensure no faults during BLOS flights
 
 # Onshape link
 https://cad.onshape.com/documents/3d392902670710a880efa328/w/26a4caf5453043c9f88016e0/e/99eee52926858585e8632edb?renderMode=0&uiState=6ae2d6b02f8fe391dc6fb8cd
+
+# CFD Sim link 
+
+https://www.simscale.com/projects/tejaswa7692/flying_wing__246632335
